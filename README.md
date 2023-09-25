@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **uDiegoDantas/uDiegoDantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,6 +36,6 @@ Here are some ideas to get you started:
 </div><br/>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Kingnaldo1337}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{uDiegoDantas}/count.svg" /></p> 
 <br>
 </div>
