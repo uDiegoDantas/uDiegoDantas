@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 
 ### Olá, seja bem vindo ao meu perfil!👋🏼
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diegodnts)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diego_dnts/)
+##Minhas redes sociais :
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diegodnts)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diego_dnts/)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=uDiegoDantas&show_icons=true&count_private=true&hide_border=true&title_color=d93030&icon_color=d93030&text_color=d93030&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
